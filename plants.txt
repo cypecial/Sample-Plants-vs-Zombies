@@ -1,0 +1,5 @@
+4
+peashooter,15,normal,5,125,100
+sunflower,10,sun,0,500,50
+cherry bomb,5,bomb,30,0,150
+wall - nut,50,wall,0,0,50

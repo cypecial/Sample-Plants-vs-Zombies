@@ -1,0 +1,4 @@
+3
+zombie,12,2,2
+conehead,18,2,2
+buckethead,20,2,3
